@@ -114,3 +114,12 @@
 > 制作日期：2025.09
 >
 > 目前做了大炎通宝和投木延炎两个版本
+
+## 喵喵我来啦
+提交个PCB_QSL的设计文件
+实物展示：
+
+![1759211223230](assets/9c28f59a8d80d8b893db61a5e0f893df.jpg)
+
+视频展示小破站链接：
+[PCB_QSL-BY BI7KHI](https://www.bilibili.com/video/BV14rZmYYEZ2/?spm_id_from=333.1387.upload.video_card.click)
