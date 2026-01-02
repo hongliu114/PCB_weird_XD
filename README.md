@@ -16,12 +16,15 @@
 
 ```
 ├── hardware/			# 硬件文件
-│   ├── image/			# 项目涉及图片文件&PSD文件
-│   ├── LCEDA/			# 立创EDA工程文件
-│   └── gerber/			# gerber制板文件
+│   └──<各项目名称>
+│   │   ├── image/		# 项目涉及图片文件&PSD文件
+│   │   ├── LCEDA/		# 立创EDA工程文件
+│  ...  └── gerber/		# gerber制板文件
 ├── assets/				# 图片
 └── README.md			# 项目说明
 ```
+
+对此项目进行贡献的用户请也按照此结构进行整理
 
 ## 项目介绍
 
@@ -118,10 +121,23 @@
 > 目前做了大炎通宝和投木延炎两个版本
 
 ## PCB_QSL - from BI7KHI
-提交个PCB_QSL的设计文件
+提交者：[BI7KHI](https://github.com/BI7KHI)
+
 实物展示：
 
 ![1759211223230](assets/9c28f59a8d80d8b893db61a5e0f893df.jpg)
 
 视频展示小破站链接：
 [PCB_QSL-BY BI7KHI](https://www.bilibili.com/video/BV14rZmYYEZ2/?spm_id_from=333.1387.upload.video_card.click)
+
+## VGD圣诞树NFC板
+
+实物展示：
+
+![1767344877293](assets/1767344877293.png)
+
+![1767344894753](assets/1767344894753.png)
+
+> 制作日期：2026.01
+>
+> 使用NT3H1101W0FHKH芯片。
